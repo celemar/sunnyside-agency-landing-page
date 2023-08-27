@@ -419,6 +419,10 @@ span::after:hover {
     padding: 6em;
   }
 
+  .testimonials h2 {
+    letter-spacing: .4em;
+  }
+  
   .testimonials-wrapper {
     display: flex;
     align-items: center;

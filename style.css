@@ -426,6 +426,10 @@ span::after:hover {
     gap: 1em;
   }
 
+  .client-box p {
+    padding: 2em 1em;
+  }
+
    /* PAGE IMAGESS */
   
   header {

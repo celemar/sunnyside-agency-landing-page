@@ -361,7 +361,7 @@ span::after:hover {
 @media (min-width:800px) {
 
   h1 {
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .navbar-items {
@@ -465,6 +465,9 @@ span::after:hover {
 }
 
 @media (min-width:1300px) {
+  header {
+    min-height: 800px;
+  }
   .pd-l  {
     padding-left: 6em;
   }

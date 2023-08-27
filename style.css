@@ -241,8 +241,9 @@ span::after:hover {
 
 .testimonials > h2 {
   color: var(--Grayish-blue);
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.4rem;
   font-size: 0.99rem;
+  font-weight: 900;
 }
 
 .client-box {
@@ -419,10 +420,6 @@ span::after:hover {
     padding: 6em;
   }
 
-  .testimonials h2 {
-    letter-spacing: .4em;
-  }
-  
   .testimonials-wrapper {
     display: flex;
     align-items: center;

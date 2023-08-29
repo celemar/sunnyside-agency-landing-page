@@ -468,8 +468,18 @@ span::after:hover {
   header {
     min-height: 800px;
   }
+
   .pd-l  {
-    padding-left: 6em;
+    padding-left: 7em;
+    padding-right: 7em;
+  }
+
+  .pd-l > h2 {
+    text-align: left;
+  }
+
+  .transform {
+    margin-right: 4em;
   }
 
   .alternative p {
